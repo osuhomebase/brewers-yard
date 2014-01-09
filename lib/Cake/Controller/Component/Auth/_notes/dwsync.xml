@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractPasswordHasher.php" server="64.92.209.98//public_html/" local="130267092548940000" remote="130268287200000000" />
+<file name="ActionsAuthorize.php" server="64.92.209.98//public_html/" local="130267092549330000" remote="130268287200000000" />
+<file name="BaseAuthenticate.php" server="64.92.209.98//public_html/" local="130267092549770000" remote="130268287200000000" />
+<file name="BaseAuthorize.php" server="64.92.209.98//public_html/" local="130267092550210000" remote="130268287200000000" />
+<file name="BasicAuthenticate.php" server="64.92.209.98//public_html/" local="130267092550580000" remote="130268287200000000" />
+<file name="BlowfishAuthenticate.php" server="64.92.209.98//public_html/" local="130267092550930000" remote="130268287200000000" />
+<file name="BlowfishPasswordHasher.php" server="64.92.209.98//public_html/" local="130267092551310000" remote="130268287200000000" />
+<file name="ControllerAuthorize.php" server="64.92.209.98//public_html/" local="130267092551670000" remote="130268287200000000" />
+<file name="CrudAuthorize.php" server="64.92.209.98//public_html/" local="130267092552150000" remote="130268287200000000" />
+<file name="DigestAuthenticate.php" server="64.92.209.98//public_html/" local="130267092552600000" remote="130268287200000000" />
+<file name="FormAuthenticate.php" server="64.92.209.98//public_html/" local="130267092552960000" remote="130268287200000000" />
+<file name="SimplePasswordHasher.php" server="64.92.209.98//public_html/" local="130267092553380000" remote="130268287200000000" />
+</dwsync>
